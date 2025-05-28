@@ -10,7 +10,7 @@ from transformers import (
     Trainer,
     DataCollatorForSeq2Seq,
     Qwen2VLForConditionalGeneration,
-    AutoProcessor, Qwen2_5_VLForConditionalGeneration,
+    AutoProcessor,
 )
 
 prompt = "你是一个LaText OCR助手,目标是读取用户输入的照片，转换成LaTex公式。"
