@@ -1,0 +1,1201 @@
+image_path,text
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\0.jpg,z _ { 1 } = r _ { 1 } ( \cos \theta _ { 1 } + i \sin \theta _ { 1 } )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1.jpg,\log z = \log r + i ( \theta + 2 n \pi )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\2.jpg,2 1 - 5 \sqrt { 2 1 } + ( 1 5 \sqrt { 7 } - 2 1 \sqrt { 3 } ) i
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\3.jpg,( ( 5 6 \times 5 2 ) \div 1 3 5 ) + ( 3 4 - ( 7 4 \times 9 2 ) ) \geq - 6 7 5 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\4.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\5.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\6.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\7.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\8.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\9.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\10.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\11.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\12.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\13.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\14.jpg,\theta _ { 2 } = \theta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\15.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\16.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\17.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\18.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\19.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\20.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\21.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\22.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\23.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\24.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\25.jpg,7 \times 1 5 4 \neq - 1 3 6 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\26.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\27.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\28.jpg,x ^ { i + 2 j \times k ^ { 3 } - \frac { j } { 2 i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\29.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\30.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\31.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\32.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\33.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\34.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\35.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\36.jpg,\sqrt { 5 + 2 \sqrt { 6 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\37.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\38.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\39.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\40.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\41.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\42.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\43.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\44.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\45.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\46.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\47.jpg,\frac { \sqrt { 3 } } { 4 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\48.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\49.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\50.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\51.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\52.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\53.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\54.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\55.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\56.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\57.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\58.jpg,\theta + \pi
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\59.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\60.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\61.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\62.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\63.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\64.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\65.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\66.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\67.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\68.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\69.jpg,( 4 7 \times 1 1 1 ) + 8 5 \geq 5 3 0 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\70.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\71.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\72.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\73.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\74.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\75.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\76.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\77.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\78.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\79.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\80.jpg,a + c = b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\81.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\82.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\83.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\84.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\85.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\86.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\87.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\88.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\89.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\90.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\91.jpg,3 n - 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\92.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\93.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\94.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\95.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\96.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\97.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\98.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\99.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\100.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\101.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\102.jpg,0 \pm 5 2 \times ( 1 6 9 + 1 9 6 - 5 8 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\103.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\104.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\105.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\106.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\107.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\108.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\109.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\110.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\111.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\112.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\113.jpg,7 8 \pm 5 \times 4 7
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\114.jpg,x _ { 2 } = \frac { - 1 + i \sqrt { 7 } } { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\115.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\116.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\117.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\118.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\119.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\120.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\121.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\122.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\123.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\124.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\125.jpg,x = \alpha _ { 1 } y _ { 1 } + \ldots + \alpha _ { n + 1 } y _ { n + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\126.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\127.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\128.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\129.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\130.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\131.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\132.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\133.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\134.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\135.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\136.jpg,( z ^ { 2 } + y _ { 0 } - a _ { 0 } z - b _ { 0 } ) ( z ^ { 2 } + y _ { 0 } + a _ { 0 } z + b _ { 0 } ) = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\137.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\138.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\139.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\140.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\141.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\142.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\143.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\144.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\145.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\146.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\147.jpg,"x _ { 0 } , y _ { 0 } , z _ { 0 }"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\148.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\149.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\150.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\151.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\152.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\153.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\154.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\155.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\156.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\157.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\158.jpg,n - i
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\159.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\160.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\161.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\162.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\163.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\164.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\165.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\166.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\167.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\168.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\169.jpg,\sum _ { 0 } ^ { \infty } \frac { 1 } { n ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\170.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\171.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\172.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\173.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\174.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\175.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\176.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\177.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\178.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\179.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\180.jpg,y = z x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\181.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\182.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\183.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\184.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\185.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\186.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\187.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\188.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\189.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\190.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\191.jpg,\frac { b - a } { n } \leq \alpha
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\192.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\193.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\194.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\195.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\196.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\197.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\198.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\199.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\200.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\201.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\202.jpg,c ( 0 ) = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\203.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\204.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\205.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\206.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\207.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\208.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\209.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\210.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\211.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\212.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\213.jpg,y ( \phi )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\214.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\215.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\216.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\217.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\218.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\219.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\220.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\221.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\222.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\223.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\224.jpg,\cos ( a + b ) = \cos a \cos b - \sin a \sin b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\225.jpg,a x + b y + c z + d = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\226.jpg,e = 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\227.jpg,a _ { n } = n ^ { - \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\228.jpg,0 \pm 1 4 5 - 3 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\229.jpg,\frac { 1 } { 1 0 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\230.jpg,x ^ { n } = z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\231.jpg,e ^ { X } e ^ { Y }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\232.jpg,( ( 3 1 \div 5 2 ) - ( 2 1 \div 1 2 0 ) ) \times 1 0 2 \geq 4 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\233.jpg,\sin ( a - b ) = \sin a \cos b - \cos a \sin b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\234.jpg,\frac { 1 } { 5 0 0 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\235.jpg,e ^ { - 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\236.jpg,1 0 0 \pm 1 5 \times 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\237.jpg,\frac { \beta } { \alpha - 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\238.jpg,1 + 2 + 3 + \ldots + ( n - 1 ) + n
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\239.jpg,( n + 3 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\240.jpg,x ^ { 2 } + 2 x + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\241.jpg,\pm i a
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\242.jpg,1 0 + 6 7 \leq 7 7
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\243.jpg,2 ^ { 6 9 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\244.jpg,x _ { ( k ) }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\245.jpg,2 ^ { n ( n - 1 ) }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\246.jpg,1 - 1 + 1 - 1 + \ldots
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\247.jpg,\frac { 1 } { 3 } \frac { 1 } { 3 } \gamma
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\248.jpg,\sqrt { 1 + \frac { 1 } { \sqrt { 2 } } } + \sqrt { 1 - \frac { 1 } { \sqrt { 2 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\249.jpg,( ( 9 8 + 1 5 0 ) + ( 7 6 \div 1 6 ) ) + ( ( 9 7 \div 9 2 ) \times 1 5 1 ) \neq 3 2 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\250.jpg,x - n
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\251.jpg,3 2 \pm 1 2 \times 1 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\252.jpg,z = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\253.jpg,( 5 1 - 5 3 + 3 1 ) - ( ( 1 8 6 \times 2 1 ) \times ( 1 6 1 \div 1 0 3 ) ) \neq - 8 2 4 8
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\254.jpg,\frac { a ^ { 2 } } { b ^ { 2 } } = a ^ { k }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\255.jpg,x ^ { 4 } - 4 x ^ { 3 } \sqrt { 2 } + 2 x ^ { 2 } + 4 x \sqrt { 2 } + 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\256.jpg,c = \sqrt { a ^ { 2 } + b ^ { 2 } - 2 a b \cos \gamma }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\257.jpg,2 ^ { n } - 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\258.jpg,\gamma = \pi - \alpha - \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\259.jpg,\cos ( a + b ) = \cos ( a ) \cos ( b ) - \sin ( a ) \sin ( b )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\260.jpg,3 0 - 1 8 0 + 7 0 \neq 2 9 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\261.jpg,3 ^ { n + 1 } + 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\262.jpg,x ^ { 2 } - x - 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\263.jpg,1 - ( - 1 ) ^ { d }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\264.jpg,x ^ { 2 } + x + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\265.jpg,( \gamma )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\266.jpg,7 \pm ( 1 1 1 \div ( 2 8 + 2 3 ) ) \times ( ( 5 3 + 1 8 7 ) \times ( 1 7 9 \div 1 4 7 ) )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\267.jpg,1 8 9 \pm 1 5 9 \times ( 5 0 \times 9 9 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\268.jpg,1 \pm 2 0 - 1 7 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\269.jpg,( x + 1 ) ( 8 x ^ { 3 } - 4 x ^ { 2 } - 4 x + 1 ) = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\270.jpg,\sqrt { 2 + \sqrt { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\271.jpg,6 = 2 ^ { 1 } ( 2 ^ { 2 } - 1 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\272.jpg,\cos ( 2 x ) = \cos ^ { 2 } ( x ) - \sin ^ { 2 } ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\273.jpg,1 7 2 - 1 1 1 - 5 5 - 1 8 7 \neq - 8 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\274.jpg,4 0 - ( 1 3 4 - ( 1 4 4 \div 1 5 4 ) ) \geq - 9 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\275.jpg,3 a + 2 \leq 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\276.jpg,x \times ( - \infty )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\277.jpg,1 2 \pm ( ( 2 9 \times 6 ) + 2 2 ) + ( ( 4 7 \times 1 3 3 ) - ( 8 6 - 1 8 7 ) )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\278.jpg,n \log ( n )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\279.jpg,\frac { 2 } { 3 } n ^ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\280.jpg,b _ { 0 } = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\281.jpg,0 = \frac { d ^ { 2 } y } { d x ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\282.jpg,n - 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\283.jpg,( 2 + 3 i )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\284.jpg,n = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\285.jpg,y = \frac { 1 } { x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\286.jpg,8 3 \pm ( ( 1 7 9 \div 2 3 ) - ( 1 4 9 + 1 5 1 ) ) \div 8 8
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\287.jpg,5 9 + 5 3 \neq - 6 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\288.jpg,x ^ { \frac { 1 } { 2 } ( 1 + \frac { 1 } { 2 ^ { 2 } } ) ( 1 + \frac { 1 } { 2 ^ { 4 } } ) ( 1 + \frac { 1 } { 2 ^ { 8 } } ) }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\289.jpg,1 4 6 \times ( 1 0 1 + 1 5 7 - 1 8 1 ) = 1 1 2 4 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\290.jpg,a ^ { 2 } - 2 a b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\291.jpg,n \times d
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\292.jpg,a c = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\293.jpg,1 2 0 - 1 4 - 1 0 7 \leq 2 1 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\294.jpg,6 a ^ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\295.jpg,y ^ { 2 } = \frac { x ^ { 3 } } { 2 a - x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\296.jpg,1 7 9 \times ( ( 1 0 - 7 7 ) \times ( 2 1 + 1 0 2 ) ) \geq - 1 4 7 5 1 3 9
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\297.jpg,n \log _ { 2 } n
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\298.jpg,8 y _ { i + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\299.jpg,3 7 \times 4 5 \geq 1 6 6 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\300.jpg,( n - 1 ) 2 ^ { n - 4 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\301.jpg,\cos x + i \sin x = e ^ { i x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\302.jpg,c _ { 1 } = a _ { 1 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\303.jpg,\pi ( e _ { 1 } )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\304.jpg,( a + c ) ^ { 2 } = 1 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\305.jpg,( ( 1 3 8 + 4 2 ) \div 9 3 ) + ( 7 3 + 1 4 1 + 1 6 9 ) > 3 4 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\306.jpg,1 9 2 - 1 6 6 \neq 1 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\307.jpg,"k _ { 1 } , \ldots , k _ { m }"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\308.jpg,y _ { 1 } + y _ { 3 } = \sqrt { z _ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\309.jpg,\exists x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\310.jpg,( 1 6 6 - 1 2 2 + 3 2 ) + ( ( 1 0 6 \div 3 0 ) \div ( 3 0 \div 1 8 ) ) \geq 7 7
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\311.jpg,x = \phi _ { k i } ( z )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\312.jpg,( 6 9 + 1 7 7 \times 1 3 6 ) + ( 1 1 7 \div 1 4 0 ) > 5 6 1 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\313.jpg,y = y _ { 0 } + t ^ { m } Y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\314.jpg,\frac { 1 } { - 1 } = \frac { - 1 } { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\315.jpg,\sqrt { 1 + x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\316.jpg,( x _ { 1 } + y _ { 1 } \sqrt { n } ) ^ { k }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\317.jpg,7 6 \pm ( 1 0 2 + 1 5 0 ) \times 5 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\318.jpg,4 ^ { 2 } = 2 ^ { 4 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\319.jpg,6 0 - 1 3 6 \geq - 7 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\320.jpg,\sqrt { 1 - z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\321.jpg,\theta = \frac { n \times 3 6 0 } { 6 0 \times 1 0 0 0 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\322.jpg,x ^ { 2 } - d y ^ { 2 } = \pm 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\323.jpg,( 2 - 1 - 1 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\324.jpg,b _ { n } - a _ { n }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\325.jpg,\frac { x ^ { 2 } + y ^ { 2 } } { a ^ { 2 } } - \frac { z ^ { 2 } } { c ^ { 2 } } - 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\326.jpg,( a + b ) ^ { 2 } = a ^ { 2 } + 2 a b + b ^ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\327.jpg,1 0 x = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\328.jpg,1 0 ^ { n } - k
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\329.jpg,b \neq 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\330.jpg,( 7 2 \div 1 5 1 ) \div ( 1 0 \times 1 5 2 ) \leq 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\331.jpg,c ^ { 2 } = ( a - b ) ^ { 2 } + 2 a b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\332.jpg,x + d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\333.jpg,d x ^ { 3 } + ( 4 e - c ^ { 2 } ) x ^ { 2 } - 2 c d x - d ^ { 2 } = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\334.jpg,5 8 + 4 \geq 6 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\335.jpg,1 7 5 \times ( 1 6 2 \times 1 0 3 ) \leq 2 9 2 0 0 5 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\336.jpg,x = \beta _ { 3 } y _ { 3 } + \ldots + \beta _ { n + 1 } y _ { n + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\337.jpg,1 0 ^ { - 1 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\338.jpg,x _ { 4 } = - \sqrt { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\339.jpg,1 0 2 + 7 2 \geq 1 7 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\340.jpg,\frac { 1 } { \log _ { a } ( b ) }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\341.jpg,x ^ { 3 } = 1 8 x + 3 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\342.jpg,\sin ( - x ) = - \sin ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\343.jpg,y + 1 6 = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\344.jpg,( 8 1 + ( 3 8 + 1 0 7 ) ) \div 1 5 1 \leq 7 8
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\345.jpg,1 9 9 - 1 5 1 = 4 8
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\346.jpg,a ^ { 2 } - 2 a b = ( a - b ) ^ { 2 } - b ^ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\347.jpg,\frac { ( e ^ { i x } - e ^ { - i x } ) } { 2 } = i \sin ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\348.jpg,( n - 1 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\349.jpg,\forall x \in X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\350.jpg,"\exists k , x _ { k }"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\351.jpg,"\forall x , y"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\352.jpg,"\forall x \in X , ( \alpha f ) ( x ) = \alpha f ( x )"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\353.jpg,"\forall t \in ( 0 , 1 )"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\354.jpg,\lim _ { n \rightarrow \infty } \frac { 1 } { n } \sum f ( \frac { r } { n } ) = \int _ { 0 } ^ { 1 } f ( x ) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\355.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\356.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\357.jpg,\gamma _ { j k }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\358.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\359.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\360.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\361.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\362.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\363.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\364.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\365.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\366.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\367.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\368.jpg,1 1 3 + ( 1 6 8 \div 8 6 ) \leq 1 1 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\369.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\370.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\371.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\372.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\373.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\374.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\375.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\376.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\377.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\378.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\379.jpg,b = a ^ { 2 } + c ^ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\380.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\381.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\382.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\383.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\384.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\385.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\386.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\387.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\388.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\389.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\390.jpg,n ^ { 2 } - n + 4 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\391.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\392.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\393.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\394.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\395.jpg,\int _ { a } ^ { b } \frac { \sqrt x } 2 d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\396.jpg,A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\397.jpg,\lim _ { x \rightarrow \infty } \int _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt \pi } 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\398.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\399.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\400.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\401.jpg,n ^ { \log _ { 2 } ( 3 ) }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\402.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\403.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\404.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\405.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\406.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\407.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\408.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\409.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\410.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\411.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\412.jpg,4 2 - 8 5 - 1 8 \geq - 2 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\413.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\414.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\415.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\416.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\417.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\418.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\419.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\420.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\421.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\422.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\423.jpg,x ^ { 2 } \frac { d ^ { 2 } y } { d x ^ { 2 } } - 3 x \frac { d y } { d x } + y = \frac { \log x \cdot \sin { \log x } + 1 } { x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\424.jpg,Y = g ( X ) = \frac { 1 } { X }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\425.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\426.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\427.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\428.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\429.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\430.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\431.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\432.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\433.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\434.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\435.jpg,7 6 \pm ( ( 4 1 + 1 1 8 ) \times 1 2 4 ) \times 1 3 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\436.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\437.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\438.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\439.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\440.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\441.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\442.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\443.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\444.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\445.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\446.jpg,a x ^ { 2 } + 2 b x + c = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\447.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\448.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\449.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\450.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\451.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\452.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\453.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\454.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\455.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\456.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\457.jpg,\gamma = 1 + \frac { 1 } { n }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\458.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\459.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\460.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\461.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\462.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\463.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\464.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\465.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\466.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\467.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\468.jpg,9 4 + 7 4 + 6 + 1 3 8 > 2 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\469.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\470.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\471.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\472.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\473.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\474.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\475.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\476.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\477.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\478.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\479.jpg,x ^ { 3 } + 3 x ^ { 2 } \sqrt { 3 } - 3 x - \sqrt { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\480.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\481.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\482.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\483.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\484.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\485.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\486.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\487.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\488.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\489.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\490.jpg,( 2 9 - 2 4 + 1 6 9 ) \times 8 8 \leq - 1 4 4 3 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\491.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\492.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\493.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\494.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\495.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\496.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\497.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\498.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\499.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\500.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\501.jpg,y _ { 1 } ( x ) = x ^ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\502.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\503.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\504.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\505.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\506.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\507.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\508.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\509.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\510.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\511.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\512.jpg,8 9 \times ( ( 1 5 5 \times 5 0 ) \div 1 3 2 ) \neq - 1 3 7 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\513.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\514.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\515.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\516.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\517.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\518.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\519.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\520.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\521.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\522.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\523.jpg,\sin ( n x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\524.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\525.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\526.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\527.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\528.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\529.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\530.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\531.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\532.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\533.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\534.jpg,p ^ { 3 } - ( x ^ { 2 } + x y + y ^ { 2 } ) p ^ { 2 } + ( x ^ { 3 } y + x ^ { 2 } y ^ { 2 } + x y ^ { 3 } ) p - x ^ { 3 } y ^ { 3 } = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\535.jpg,1 2 + 1 3 8 + 1 4 4 + 7 3 > 4 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\536.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\537.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\538.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\539.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\540.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\541.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\542.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\543.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\544.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\545.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\546.jpg,\sin ^ { 2 } ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\547.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\548.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\549.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\550.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\551.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\552.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\553.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\554.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\555.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\556.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\557.jpg,( ( 8 4 / 1 1 3 ) / 5 1 ) - 1 1 9 = - 1 1 8 . 9 9
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\558.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\559.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\560.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\561.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\562.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\563.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\564.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\565.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\566.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\567.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\568.jpg,"\forall x , f ( x )"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\569.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\570.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\571.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\572.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\573.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\574.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\575.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\576.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\577.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\578.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\579.jpg,a _ { 2 } = - 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\580.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\581.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\582.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\583.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\584.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\585.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\586.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\587.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\588.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\589.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\590.jpg,2 4 / 1 2 5 = 0 . 1 9
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\591.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\592.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\593.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\594.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\595.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\596.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\597.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\598.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\599.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\600.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\601.jpg,n _ { 1 } + \ldots + n _ { j }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\602.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\603.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\604.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\605.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\606.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\607.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\608.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\609.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\610.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\611.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\612.jpg,4 \div 1 8 2 = 0 . 0 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\613.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\614.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\615.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\616.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\617.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\618.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\619.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\620.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\621.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\622.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\623.jpg,"4 , 2 , 1"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\624.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\625.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\626.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\627.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\628.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\629.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\630.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\631.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\632.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\633.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\634.jpg,( - a ) ^ { n } = a ^ { n }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\635.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\636.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\637.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\638.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\639.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\640.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\641.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\642.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\643.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\644.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\645.jpg,y = x p + \sqrt { b ^ { 2 } + a ^ { 2 } p ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\646.jpg,y = \frac { 1 } { Y }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\647.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\648.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\649.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\650.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\651.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\652.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\653.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\654.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\655.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\656.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\657.jpg,( ( 1 1 6 - 1 7 ) \times ( 1 2 4 - 9 8 ) ) \div 1 0 > 2 0 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\658.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\659.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\660.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\661.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\662.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\663.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\664.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\665.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\666.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\667.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\668.jpg,x ^ { - 4 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\669.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\670.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\671.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\672.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\673.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\674.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\675.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\676.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\677.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\678.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\679.jpg,\frac 1 { n ^ { k + 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\680.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\681.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\682.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\683.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\684.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\685.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\686.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\687.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\688.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\689.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\690.jpg,\cos ( 4 a ) = 8 \cos ^ { 4 } ( a ) - 8 \cos ^ { 2 } ( a ) + 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\691.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\692.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\693.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\694.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\695.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\696.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\697.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\698.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\699.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\700.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\701.jpg,( 1 8 + 2 2 ) \div 9 2 \neq 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\702.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\703.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\704.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\705.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\706.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\707.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\708.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\709.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\710.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\711.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\712.jpg,y = x ^ { n }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\713.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\714.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\715.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\716.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\717.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\718.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\719.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\720.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\721.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\722.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\723.jpg,\frac { y _ { 2 } x _ { 2 } - y _ { 1 } x _ { 1 } } { n }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\724.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\725.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\726.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\727.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\728.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\729.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\730.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\731.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\732.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\733.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\734.jpg,3 = \sqrt { 6 + \sqrt { 6 + \sqrt { 6 + \sqrt { 6 + \ldots } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\735.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\736.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\737.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\738.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\739.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\740.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\741.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\742.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\743.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\744.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\745.jpg,\frac { n ( n + 1 ) } { 2 } + \frac { n ( n - 1 ) } { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\746.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\747.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\748.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\749.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\750.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\751.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\752.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\753.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\754.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\755.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\756.jpg,( ( 2 4 - 4 4 ) \times 6 1 ) - ( 6 4 \div ( 1 9 6 + 1 6 2 ) ) > - 9 9 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\757.jpg,1 4 \times 8 7 \neq - 1 9 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\758.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\759.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\760.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\761.jpg,x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\762.jpg,x _ { 1 } \times x _ { 2 } \times x _ { 3 } \times x _ { 4 } = X
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\763.jpg,z _ { 1 } ^ { 2 } + 1 ^ { z } - z _ { 2 } ^ { 2 } + 2 ^ { z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\764.jpg,\sum _ { i = 2 n + 3 m } ^ { 1 0 } i x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\765.jpg,\log _ { 2 } \frac 1 2 + \log _ { 4 } \frac 2 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\766.jpg,\frac 2 { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\767.jpg,[ \frac 2 3 x ^ { \frac 3 2 } ] _ { 0 } ^ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\768.jpg,y \neq x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\769.jpg,\int _ { \log 3 } ^ { 0 } \frac 1 { e ^ { t } + 1 } d t
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\770.jpg,\pi \int _ { c } ^ { d } \{ g ( y ) \} ^ { 2 } d y
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\771.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\772.jpg,[ b ^ { x } \{ ( \frac a b ) ^ { x } + 1 \} ] ^ { \frac 1 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\773.jpg,\log x ( t ) = \sum _ { k = 1 } ^ { \infty } \frac { a _ { k } } { k ! } ( i t ) ^ { k } - \frac { 1 } { 2 } ( \sum _ { k = 1 } ^ { \infty } \frac { a _ { k } } { k ! } ( i t ) ^ { k } ) ^ { 2 } + \frac { 1 } { 3 } ( \sum _ { k = 1 } ^ { \infty } \frac { a _ { k } } { k ! } ( i t ) ^ { k } ) ^ { 3 } - \ldots
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\774.jpg,\lim _ { n \rightarrow \infty } t _ { 3 n } = \frac { 1 } { 2 } \log 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\775.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\776.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\777.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\778.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\779.jpg,x ^ { 2 } + 2 x \sqrt { 2 } + 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\780.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\781.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\782.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\783.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\784.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\785.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\786.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\787.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\788.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\789.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\790.jpg,1 4 8 - 1 4 1 \neq - 4
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\791.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\792.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\793.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\794.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\795.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\796.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\797.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\798.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\799.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\800.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\801.jpg,\frac { 9 } { 5 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\802.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\803.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\804.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\805.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\806.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\807.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\808.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\809.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\810.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\811.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\812.jpg,k _ { n } = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\813.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\814.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\815.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\816.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\817.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\818.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\819.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\820.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\821.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\822.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\823.jpg,1 2 \div 7 5 \geq 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\824.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\825.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\826.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\827.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\828.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\829.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\830.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\831.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\832.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\833.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\834.jpg,- \frac { 1 } { \pi }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\835.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\836.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\837.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\838.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\839.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\840.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\841.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\842.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\843.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\844.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\845.jpg,( 2 - 1 )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\846.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\847.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\848.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\849.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\850.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\851.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\852.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\853.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\854.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\855.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\856.jpg,1 2 6 - 4 8 = 7 8
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\857.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\858.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\859.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\860.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\861.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\862.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\863.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\864.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\865.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\866.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\867.jpg,\phi ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\868.jpg,( ( 2 6 \div 1 2 8 ) + 5 0 ) - ( 1 8 3 \div 2 9 ) \neq - 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\869.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\870.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\871.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\872.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\873.jpg,\log _ { 2 } 8 = 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\874.jpg,x ^ { 2 } + y ^ { 2 } \lt 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\875.jpg,e ^ { i \pi } + 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\876.jpg,\tan z = \frac { \sin z } { \cos z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\877.jpg,\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\878.jpg,e = \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\879.jpg,1 0 ^ { 6 4 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\880.jpg,F _ { n } = F _ { n - 1 } + F _ { n - 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\881.jpg,x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\882.jpg,A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\883.jpg,a \left( n \right) = \sum _ { k = 1 } ^ { n } \left( - 1 \right) ^ { n - k } k !
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\884.jpg,\left( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } \right) \left( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } \right) = x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\885.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\886.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\887.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\888.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\889.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\890.jpg,2 ^ { 1 7 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\891.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\892.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\893.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\894.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\895.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\896.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\897.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\898.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\899.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\900.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\901.jpg,( ( 1 2 6 \div 1 8 5 ) \times ( 5 9 + 1 3 9 ) ) - 5 9 > 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\902.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\903.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\904.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\905.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\906.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\907.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\908.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\909.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\910.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\911.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\912.jpg,r = \sqrt { \theta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\913.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\914.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\915.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\916.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\917.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\918.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\919.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\920.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\921.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\922.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\923.jpg,n ^ { 3 } = n ^ { \log _ { 2 } 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\924.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\925.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\926.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\927.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\928.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\929.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\930.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\931.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\932.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\933.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\934.jpg,1 9 \times 7 \leq 1 3 3
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\935.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\936.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\937.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\938.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\939.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\940.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\941.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\942.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\943.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\944.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\945.jpg,y = \frac { 1 } { x ^ { 2 } + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\946.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\947.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\948.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\949.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\950.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\951.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\952.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\953.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d _ { x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\954.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\955.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\956.jpg,\sin ( x )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\957.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\958.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\959.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\960.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\961.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\962.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\963.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\964.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\965.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\966.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\967.jpg,2 6 \pm ( 1 0 9 + 1 1 9 - 8 2 ) \div ( ( 1 6 9 - 1 2 3 ) + ( 2 0 \div 1 7 5 ) )
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\968.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\969.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\970.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\971.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\972.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\973.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\974.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\975.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\976.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\977.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\978.jpg,\log _ { c } ( a - b ) = \log _ { c } ( c ^ { ( \log _ { c } a - \log _ { c } b ) } - 1 ) + \log _ { c } b
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\979.jpg,z ^ { 2 } - 2 z - 1 = 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\980.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\981.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\982.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\983.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\984.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\985.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\986.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\987.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\988.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\989.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\990.jpg,1 8 6 \pm 6 + 9 8 + 1 7 6 + 9 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\991.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\992.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\993.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\994.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\995.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\996.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\997.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\998.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\999.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1000.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1001.jpg,2 ^ { 1 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1002.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1003.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1004.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1005.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1006.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1007.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1008.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 3 } { 2 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1009.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1010.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1011.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1012.jpg,f ( x ) = X ^ { 2 } - 4 X - 5
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1013.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1014.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1015.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1016.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1017.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1018.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1019.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1020.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1021.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1022.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1023.jpg,"m _ { 1 } , m _ { 2 } , m _ { 3 }"
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1024.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1025.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1026.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1027.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1028.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1029.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1030.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1031.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1032.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1033.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1034.jpg,1 5 \div ( ( 7 6 \div 1 0 ) + ( 1 9 9 - 8 9 ) ) > 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1035.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1036.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1037.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1038.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1039.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1040.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1041.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1042.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1043.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1044.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1045.jpg,\frac { 4 } { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1046.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1047.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1048.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1049.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1050.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1051.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1052.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1053.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1054.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1055.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1056.jpg,b = \sqrt { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1057.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1058.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1059.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1060.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1061.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1062.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1063.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1064.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1065.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1066.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1067.jpg,6 9 + ( ( 1 1 2 - 4 6 ) / 1 2 6 ) > 6 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1068.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1069.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1070.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1071.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1072.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1073.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1074.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1075.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1076.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1077.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1078.jpg,x ^ { 5 } + x + a
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1079.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1080.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1081.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1082.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1083.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1084.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } a _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1085.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1086.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1087.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1088.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1089.jpg,1 5 1 \pm 1 4 3 \div 9 7
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1090.jpg,( g ^ { - 1 } ) ^ { i j }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1091.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1092.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1093.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1094.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1095.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1096.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1097.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1098.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1099.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1100.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1101.jpg,f + g
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1102.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1103.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1104.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1105.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1106.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1107.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1108.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1109.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1110.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1111.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1112.jpg,- 2 x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1113.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1114.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1115.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1116.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1117.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1118.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1119.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1120.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1121.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1122.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1123.jpg,6 7 - 1 3 2 - 1 8 1 - 1 9 4 = - 5 2
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1124.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1125.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1126.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1127.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1128.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1129.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1130.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1131.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1132.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1133.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1134.jpg,2 ^ { 5 0 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1135.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1136.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1137.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1138.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1139.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1140.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1141.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1142.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1143.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1144.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1145.jpg,( ( 1 1 7 \times 5 4 ) \div ( 1 4 1 \times 1 2 4 ) ) - ( ( 7 0 \div 1 9 3 ) \div 1 5 9 ) \geq 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1146.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1147.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1148.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1149.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1150.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1151.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1152.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1153.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1154.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1155.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1156.jpg,2 { k } { \pi }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1157.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1158.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1159.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1160.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1161.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1162.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1163.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1164.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1165.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1166.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1167.jpg,( 1 6 6 + ( 9 3 \times 6 7 ) ) - ( 6 4 + 1 2 7 + 1 7 6 ) \leq 6 0 3 0
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1168.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1169.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1170.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1171.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1172.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1173.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1174.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1175.jpg,\log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1176.jpg,\sin x - \sin y - \sin \left( x - y \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1177.jpg,\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1178.jpg,y ( 0 ) = \alpha _ { 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1179.jpg,\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1180.jpg,\lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1181.jpg,1 + \frac { 1 } { 1 ! } + \frac { 1 } { 2 ! } + \frac { 1 } { 3 ! } + \frac { 1 } { 4 ! }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1182.jpg,\lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1183.jpg,\int \left( 2 ^ { x } - 3 e ^ { x } \right) d x
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1184.jpg,\frac { 1 } { a } F \left( a x + b \right) + C
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1185.jpg,\frac { \sin B + \sin C } { \cos B + \cos C }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1186.jpg,\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1187.jpg,3 0 \times 2 9 x ^ { 2 8 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1188.jpg,\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1189.jpg,2 ^ { 5 } + 2 + 1
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1190.jpg,\lim _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1191.jpg,x _ { 1 } + x _ { 2 } = x _ { 3 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1192.jpg,x _ { i } - x _ { i + 1 } + x _ { i + 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1193.jpg,\sqrt { b ^ { 2 } - 4 a c }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1194.jpg,\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1195.jpg,\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1196.jpg,\left( x ^ { 3 } - x ^ { 2 } - x \right) \left( 2 x - 7 \right)
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1197.jpg,x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1198.jpg,a + b + c + d + e
+D:\PycharmProjects\finetune-qwenvl\qwen2-vl\latex_ocr\1199.jpg,x ^ { i + 2 j \times k ^ { 3 } - 2 \frac { j } { i } }

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "identity_1197",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "D:\\PycharmProjects\\finetune-qwenvl\\qwen2-vl\\latex_ocr\\1196.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "\\left( x ^ { 3 } - x ^ { 2 } - x \\right) \\left( 2 x - 7 \\right)"
+      }
+    ]
+  },
+  {
+    "id": "identity_1198",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "D:\\PycharmProjects\\finetune-qwenvl\\qwen2-vl\\latex_ocr\\1197.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 }"
+      }
+    ]
+  },
+  {
+    "id": "identity_1199",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "D:\\PycharmProjects\\finetune-qwenvl\\qwen2-vl\\latex_ocr\\1198.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "a + b + c + d + e"
+      }
+    ]
+  },
+  {
+    "id": "identity_1200",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "D:\\PycharmProjects\\finetune-qwenvl\\qwen2-vl\\latex_ocr\\1199.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "x ^ { i + 2 j \\times k ^ { 3 } - 2 \\frac { j } { i } }"
+      }
+    ]
+  }
+]
